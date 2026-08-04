@@ -7,11 +7,11 @@ excerpt: 'The design of a simple 6-axis model-independent control strategy for b
 date: 2026-09-01
 venue: 'Ocean Engineering'
 paperurl: 'https://doi.org/10.1016/j.oceaneng.2026.127077'
-bibtexurl: 'https://ScudeT.github.io/files/maui/OE-2026-09/OE-2026-09.bib'
+bibtexurl: '/files/maui/OE-2026-09/OE-2026-09.bib'
 giturl: 'https://github.com/ScudeT/Maui'
 ---
 
-![helix](https://ScudeT.github.io/files/maui/OE-2026-09/video1.mp4)
+![helix](/files/maui/OE-2026-09/video1.mp4)
 
 ## Highlights
 
@@ -20,7 +20,7 @@ giturl: 'https://github.com/ScudeT/Maui'
 * Open-water tests: attitude RMSE 1.3°–4.4°, helical depth-tracking RMSE 0.073 m
 * Resurfacing GPS fixes enable multitarget following; accuracy limited by sensors
 
-![graph_abstract](https://ScudeT.github.io/files/maui/OE-2026-09/graph_abstract.png)
+![graph_abstract](/files/maui/OE-2026-09/graph_abstract.png)
 
 ## Abstract
 

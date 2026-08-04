@@ -7,7 +7,7 @@ header:
 ---
 
 * The project started from an existing prototype where the propulsion system was designed and simple feedforward strategy was implemented on an Arduino Board
-![old_system](https://ScudeT.github.io/files/video/maui/old_system.jpg)
+![old_system](/files/maui/old_system.jpg)
 
 * The Microcontroller was upgraded to an Embedded computer (Raspberry pi 5) and sensors where added to allow the estimation of the 6 degrees of freedom
 * The new hardware required a redesign of the robot to recover close to 0 buoyancy, that was done following a more organic and bio-inspired approach
