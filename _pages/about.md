@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Tommaso Scudeletti"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-about me
+# About Me
