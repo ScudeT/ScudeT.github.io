@@ -11,7 +11,7 @@ bibtexurl: 'https://ScudeT.github.io/files/maui/OE-2026-09/OE-2026-09.bib'
 giturl: 'https://github.com/ScudeT/Maui'
 ---
 
-![helix](files/maui/OE-2026-09/video1.mp4)
+![helix](https://ScudeT.github.io/files/maui/OE-2026-09/video1.mp4)
 
 ## Highlights
 
@@ -20,7 +20,7 @@ giturl: 'https://github.com/ScudeT/Maui'
 * Open-water tests: attitude RMSE 1.3°–4.4°, helical depth-tracking RMSE 0.073 m
 * Resurfacing GPS fixes enable multitarget following; accuracy limited by sensors
 
-![graph_abstract](files/maui/OE-2026-09/graph_abstract.png)
+![graph_abstract](https://ScudeT.github.io/files/maui/OE-2026-09/graph_abstract.png)
 
 ## Abstract
 
