@@ -11,7 +11,7 @@ bibtexurl: '/files/maui/OE-2026-09/OE-2026-09.bib'
 giturl: 'https://github.com/ScudeT/Maui'
 ---
 
-![helix](/files/maui/OE-2026-09/video1.mp4)
+<video src="/files/maui/OE-2026-09/video1.mp4" controls playsinline style="max-width: 100%;"></video>
 
 ## Highlights
 

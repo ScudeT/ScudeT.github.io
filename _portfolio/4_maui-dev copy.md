@@ -2,8 +2,9 @@
 title: "Maui - development"
 excerpt: "Design and development of a full bathoid inspired robot starting from the propulsion prototype"
 collection: portfolio
+order: 4
 header:
-  teaser: "portfolio/maui.JPG"
+  teaser: "portfolio/maui-dev.JPG"
 ---
 
 * The project started from an existing prototype where the propulsion system was designed and simple feedforward strategy was implemented on an Arduino Board
