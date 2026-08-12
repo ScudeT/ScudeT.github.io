@@ -4,7 +4,7 @@ excerpt: "Reproducing a paper on convergence of distributed position estimation 
 collection: portfolio
 order: 5
 header:
-  teaser: "portfolio/FDJaTT.png"
+  teaser: "portfolio/FDJatt.png"
 ---
 
 > **Goal of the project:** reproduce and verify the central convergence result of a published paper through simulation.
