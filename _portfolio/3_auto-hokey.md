@@ -47,6 +47,6 @@ None of this took away from the project — it was the first time I'd tackled an
 
 ## Why ROS2
 
-A lot of my time went into learning ROS2, managing control and the different game scenarios through state machines and odometry estimation. Several classmates avoided it, since it was easier to program everything on the Arduino with a single switch-case loop. The extra investment paid off: it fed directly into a follow-up [project](https://ScudeT.gihub.io/portfolio/4_HA_to_SLAM/), where the same system was rebuilt in ROS2 using the latest SLAM packages, with Docker handling deployment onto the same aging hardware.
+A lot of my time went into learning ROS2, managing control and the different game scenarios through state machines and odometry estimation. Several classmates avoided it, since it was easier to program everything on the Arduino with a single switch-case loop. The extra investment paid off: it fed directly into a follow-up [project](https://ScudeT.github.io/portfolio/4_HA_to_SLAM/), where the same system was rebuilt in ROS2 using the latest SLAM packages, with Docker handling deployment onto the same aging hardware.
 
 > All the code and a short readme are available in the [public repository](https://github.com/ScudeT/Hokey-autonomous-challenge).
