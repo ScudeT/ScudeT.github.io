@@ -2,7 +2,7 @@
 title: "Ringo - Learning to walk"
 excerpt: "Teach Ringo to walk through Reinforcment learning in Isaac"
 collection: portfolio
-order: 9
+order: 12
 header:
   teaser: "portfolio/ringo-learn.png"
 ---

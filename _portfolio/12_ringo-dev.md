@@ -2,7 +2,7 @@
 title: "Ringo - development"
 excerpt: "Repair and update an old Arbotix 6 legged Robot for future development"
 collection: portfolio
-order: 7
+order: 10
 header:
   teaser: "portfolio/ringo-dev.jpg"
 ---

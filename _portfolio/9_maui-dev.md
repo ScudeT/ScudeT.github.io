@@ -2,7 +2,7 @@
 title: "Maui - development"
 excerpt: "Design and development of a full bathoid inspired robot starting from the propulsion prototype"
 collection: portfolio
-order: 4
+order: 7
 header:
   teaser: "portfolio/maui-dev.JPG"
 ---

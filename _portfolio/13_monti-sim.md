@@ -2,7 +2,7 @@
 title: "Monti - simulation"
 excerpt: "Simulate the robot swimming in water based on phisics and real world data"
 collection: portfolio
-order: 10
+order: 13
 header:
   teaser: "portfolio/monti-sim.png"
 ---

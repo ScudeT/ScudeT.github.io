@@ -2,7 +2,7 @@
 title: "Monti - development"
 excerpt: "Repair and Deployment of a Snake inspired robot desinged to swim through CPG with feedback"
 collection: portfolio
-order: 6
+order: 9
 header:
   teaser: "portfolio/monti-dev.jpg"
 ---
