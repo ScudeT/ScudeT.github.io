@@ -2,10 +2,12 @@
 title: "Monti - development"
 excerpt: "Repair and Deployment of a Snake inspired robot desinged to swim through CPG with feedback"
 collection: portfolio
-order: 9
+order: 12
 header:
   teaser: "portfolio/monti-dev.jpg"
 ---
+
+> February 2025 - June 2025
 
 * The project began with an existing prototype: a well-conceived, navigation-oriented design that hadn't yet reached reliable execution. Its architecture was already solid — eight independently actuated modules, each with its own circuitry for power-on and recharging through a central unit, all linked over a shared I2C bus. The main gap was feedback: giving the central unit true state feedback required reprogramming the modules, but the existing procedure broke every connection, forcing them to be rebuilt from scratch each time.
 * Building on that foundation, I designed and hand-built compact perfboard circuits sized to fit the original enclosures, making the whole system far easier to work on and iterate.

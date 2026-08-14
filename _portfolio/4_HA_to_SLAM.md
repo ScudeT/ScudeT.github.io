@@ -7,6 +7,8 @@ header:
   teaser: "portfolio/auto-hokey.png"
 ---
 
+> November 2023 - December 2023
+
 > **Goal of the project:** upgrade the robot from the [hockey contest](https://ScudeT.github.io/portfolio/3_auto-hokey/) with new hardware to achieve a completely different capability — live mapping.
 
 ## Skills at a glance

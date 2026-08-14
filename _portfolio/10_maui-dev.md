@@ -2,10 +2,12 @@
 title: "Maui - development"
 excerpt: "Design and development of a full bathoid inspired robot starting from the propulsion prototype"
 collection: portfolio
-order: 7
+order: 10
 header:
   teaser: "portfolio/maui-dev.JPG"
 ---
+
+> September 2024 - June 2025
 
 * The project started from an existing prototype where the propulsion system was designed and simple feedforward strategy was implemented on an Arduino Board
 ![old_system](/files/maui/old_system.jpg)

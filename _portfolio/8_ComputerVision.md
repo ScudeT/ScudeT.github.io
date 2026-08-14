@@ -7,6 +7,8 @@ header:
   teaser: "portfolio/scene.jpg"
 ---
 
+> September 2024 - December 2024
+
 ## Course Projects:
 
 

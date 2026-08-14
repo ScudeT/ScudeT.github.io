@@ -2,10 +2,12 @@
 title: "Distributed localization"
 excerpt: "Reproducing a paper on convergence of distributed position estimation in robot networks"
 collection: portfolio
-order: 5
+order: 6
 header:
   teaser: "portfolio/FDJatt.png"
 ---
+
+> September 2023 - December 2023
 
 > **Goal of the project:** reproduce and verify the central convergence result of a published paper through simulation.
 

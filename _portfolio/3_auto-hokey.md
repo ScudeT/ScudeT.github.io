@@ -7,6 +7,7 @@ header:
   teaser: "portfolio/auto-hokey.png"
 ---
 
+> September 2023 - December 2023
 
 > **Goal of the course:** develop a differential-drive robot to play hockey autonomously against other players.
 

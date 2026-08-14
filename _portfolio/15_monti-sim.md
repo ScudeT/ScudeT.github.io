@@ -2,10 +2,12 @@
 title: "Monti - simulation"
 excerpt: "Simulate the robot swimming in water based on phisics and real world data"
 collection: portfolio
-order: 13
+order: 15
 header:
   teaser: "portfolio/monti-sim.png"
 ---
+
+> February 2025 - Current
 
 * to be explained
 
