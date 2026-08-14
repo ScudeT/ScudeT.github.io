@@ -1,6 +1,6 @@
 ---
-title: "Sailing Team: Leading the 2024/25 Project"
-excerpt: "Head of department for a 30-person mechatronics project, from PCB and comms to the first autonomous foiling flight"
+title: "Sailing Team: Leading the 2024/25 Mechatrnoics Project"
+excerpt: "Head of the mechatrnoics department of 30-people, from PCB and comms to the first autonomous foiling flight"
 collection: portfolio
 order: 9
 header:

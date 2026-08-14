@@ -9,9 +9,6 @@ header:
 
 > September 2023 - December 2023
 
-title: "Deep Learning Projects"
-excerpt: "Building neural networks from scratch: CNNs and RNNs"
-
 > **Context:** a Deep Learning course at NYCU, covering how to design and build neural networks from the ground up.
 
 ## Skills at a glance
