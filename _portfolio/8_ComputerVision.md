@@ -2,7 +2,7 @@
 title: "Computer Vision Projects"
 excerpt: "Course projects on the epipolar geometry in Computer Vision"
 collection: portfolio
-order: 6
+order: 8
 header:
   teaser: "portfolio/scene.jpg"
 ---
