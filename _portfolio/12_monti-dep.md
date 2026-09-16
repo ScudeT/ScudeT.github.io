@@ -14,6 +14,6 @@ header:
 * I rewrote the module firmware to support fast I2C communication with the main board, exposing clean per-module commands — MOVE, READ_ENCODER, TURN_OFF and RESET — plus a startup routine that zeroes each motor so the encoder output is centered on the motor's position, which also simplified mounting. To eliminate the servo jitter caused by I2C interrupts disrupting PWM control, I moved the signal onto the hardware PWM of the Arduino Nano Every instead of the usual Arduino Servo library.
 * To achieve smooth actuation, I redesigned the main-board code around the microcontroller's real limits. While swimming, a single loop had to update the CPG at high frequency, read the encoders, communicate with an IMU and a GPS, refresh command values for high-level heading control, combine CPG and heading control across all modules, dispatch commands to every module, and log data to an SD card. On a single-core microcontroller this meant profiling execution times and hardcoding a deterministic schedule — keeping the CPG update fast enough to avoid instability while accumulated delays never built up into visible jitter.
 
-> All the code and a little readme is available at the following [public Repo](https://github.com/ScudeT/monti-ardu)
+> All the code and a little readme is available at the following [public Repo](https://github.com/ScudeT/Monti-moves)
 
 // video
